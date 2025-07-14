@@ -77,7 +77,7 @@
     "@nestjs/core": "^11.0.11",
     "@nestjs/graphql": "^13.1.0",
     "@nestjs/platform-express": "^11.0.11",
-    "@ngrx/signals": "^19.0.1",
+    "@ngrx/signals": "^19.2.1",
     "apollo-angular": "^10.0.3",
     "axios": "^1.6.0",
     "express": "^4.21.2",
